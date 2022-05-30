@@ -1,0 +1,331 @@
+@prefix p: <http://cellphone.com>
+@prefix d: <http://cellphone.com/ns/data#>
+
+p:P01        d:NamaHP	        "Redmi K50 Gaming" ;
+             d:MerekHP       	"Xiaomi" ;
+             d:Ram              "8 GB" ;
+             d:Memori             "256 GB";
+             d:Harga                "12.950.000";
+             d:Kamera            "64 MP".
+
+p:P02        d:NamaHP	        "ZTE Nubia Red Magic 7 Pro" ;
+             d:MerekHP       	"ZTE" ;
+             d:Ram              "12 GB" ;
+             d:Memori             "256 GB";
+             d:Harga                "19.000.000";
+             d:Kamera            "64 MP".            
+
+p:P03        d:NamaHP	        "ZTE Nubia Red Magic 7" ;
+             d:MerekHP       	"ZTE" ;
+             d:Ram              "12 GB" ;
+             d:Memori             "256 GB";
+             d:Harga                "17.500.000";
+             d:Kamera            "64 MP".            
+
+p:P04        d:NamaHP	        "iQOO 9 Pro" ;
+             d:MerekHP       	"Vivo" ;
+             d:Ram              "8 GB" ;
+             d:Memori             "128 GB";
+             d:Harga                "14.000.000";
+             d:Kamera            "50 MP".
+
+p:P05        d:NamaHP	        "Realme Narzo 50A" ;
+             d:MerekHP       	"Realme" ;
+             d:Ram              "4 GB" ;
+             d:Memori             "64 GB";
+             d:Harga                "1.700.000";
+             d:Kamera            "50 MP".
+             
+p:P06        d:NamaHP	        "POCO M3 Pro 5G" ;
+             d:MerekHP       	"Poco" ;
+             d:Ram              "6 GB";
+             d:Memori             "128 GB ";
+             d:Harga                "2.750.000";
+             d:Kamera            "48 MP".
+
+p:P07        d:NamaHP	        "Realme 8" ;
+             d:MerekHP       	"Realme" ;
+             d:Ram              "8 GB" ;
+             d:Memori             "128 GB ";
+             d:Harga                "2.925.000";
+             d:Kamera            "64 MP".
+
+p:P08        d:NamaHP	        "POCO X3 Pro" ;
+             d:MerekHP       	"POCO" ;
+             d:Ram              "6 GB" ;
+             d:Memori             "128 GB";
+             d:Harga                "3.500.000";
+             d:Kamera            "48 MP".
+
+p:P09        d:NamaHP	        "Realme Narzo 30 A" ;
+             d:MerekHP       	"Realme" ;
+             d:Ram              "4 GB" ;
+             d:Memori             "64 GB";
+             d:Harga                "1.900.000";
+             d:Kamera            "13 MP".
+
+p:P10        d:NamaHP	        "Redmi Note 9 Pro" ;
+             d:MerekHP       	"Xiaomi" ;
+             d:Ram              "8 GB" ;
+             d:Memori             "128 GB";
+             d:Harga                "3.550.000";
+             d:Kamera            "64 MP".
+             
+p:P11        d:NamaHP	        "Oppo K3" ;
+             d:MerekHP       	"Oppo" ;
+             d:Ram              "6 GB" ;
+             d:Memori             "64 GB";
+             d:Harga                "3.499.000";
+             d:Kamera            "16 MP".
+
+p:P12        d:NamaHP	        "Realme 6" ;
+             d:MerekHP       	"Realme" ;
+             d:Ram              "8 GB" ;
+             d:Memori             "128 GB";
+             d:Harga                "3.069.000";
+             d:Kamera            "64 MP".
+
+p:P13        d:NamaHP	        "POCO F3" ;
+             d:MerekHP       	"Poco" ;
+             d:Ram              "6 GB" ;
+             d:Memori             "128 GB";
+             d:Harga                "5.099.000";
+             d:Kamera            "48 MP".
+
+p:P14        d:NamaHP	        "Redmi Note 8" ;
+             d:MerekHP       	"Xiaomi" ;
+             d:Ram              "4 GB" ;
+             d:Memori             "64 GB";
+             d:Harga                "2.200.000";
+             d:Kamera            "48 MP".
+
+p:P15        d:NamaHP	        "Vivo Y50" ;
+             d:MerekHP       	"Vivo" ;
+             d:Ram              "8 GB" ;
+             d:Memori             "128 GB";
+             d:Harga                "2.350.000";
+             d:Kamera            "13 MP".
+
+p:P16        d:NamaHP	        "Realme 5i" ;
+             d:MerekHP       	"Realme" ;
+             d:Ram              "3 GB" ;
+             d:Memori             "32 GB";
+             d:Harga                "1.999.000";
+             d:Kamera            "12 MP".
+
+p:P17        d:NamaHP	        "Redmi Note 9" ;
+             d:MerekHP       	"Xiaomi" ;
+             d:Ram              "6 GB" ;
+             d:Memori             "64 GB";
+             d:Harga                "2.250.000";
+             d:Kamera            "48 MP".
+
+p:P18        d:NamaHP	        "Redmi Note 8 Pro" ;
+             d:MerekHP       	"Xiaomi" ;
+             d:Ram              "6 GB" ;
+             d:Memori             "64 GB";
+             d:Harga                "2.719.000";
+             d:Kamera            "16 MP".
+
+p:P19        d:NamaHP	        "Samsung Galaxy S22" ;
+             d:MerekHP       	"Samsung" ;
+             d:Ram              "8 GB" ;
+             d:Memori             "128 GB";
+             d:Harga                "11.999.000";
+             d:Kamera            "108 MP".
+
+p:P20        d:NamaHP	        "Samsung Galaxy Z Flip" ;
+             d:MerekHP       	"Samsung" ;
+             d:Ram              "8 GB" ;
+             d:Memori             "128 GB";
+             d:Harga                "14.350.000";
+             d:Kamera            "108 MP".
+
+p:P21        d:NamaHP	        "Samsung Galaxy A52" ;
+             d:MerekHP       	"Samsung" ;
+             d:Ram              "8 GB" ;
+             d:Memori             "128 GB";
+             d:Harga                "4.810.000";
+             d:Kamera            "108 MP".
+
+p:P22        d:NamaHP	        "Samsung Galaxy A72" ;
+             d:MerekHP       	"Samsung" ;
+             d:Ram              "8 GB" ;
+             d:Memori             "128 GB";
+             d:Harga                "5.525.000";
+             d:Kamera            "108 MP".
+
+p:P23        d:NamaHP	        "Samsung Galaxy A32 5G" ;
+             d:MerekHP       	"Samsung" ;
+             d:Ram              "8 GB" ;
+             d:Memori             "128 GB";
+             d:Harga                "3.999.000";
+             d:Kamera            "108 MP".
+
+p:P24        d:NamaHP	        "Samsung Galaxy A03" ;
+             d:MerekHP       	"Samsung" ;
+             d:Ram              "4 GB" ;
+             d:Memori             "128 GB";
+             d:Harga                "1.799.000";
+             d:Kamera            "64 MP".
+
+p:P25        d:NamaHP	        "Samsung Galaxy M02" ;
+             d:MerekHP       	"Samsung" ;
+             d:Ram              "2 GB" ;
+             d:Memori             "64 GB";
+             d:Harga                "1.369.000";
+             d:Kamera            "64 MP".
+
+p:P26        d:NamaHP	        "Samsung Galaxy M12" ;
+             d:MerekHP       	"Samsung" ;
+             d:Ram              "3 GB" ;
+             d:Memori             "32 GB";
+             d:Harga                "1.735.000";
+             d:Kamera            "64 MP".
+
+p:P27        d:NamaHP	        "Samsung Galaxy M52 5G" ;
+             d:MerekHP       	"Samsung" ;
+             d:Ram              "8 GB" ;
+             d:Memori             "128 GB";
+             d:Harga                "4.525.000";
+             d:Kamera            "108 MP".
+
+p:P28        d:NamaHP	        "Samsung Galaxy M62" ;
+             d:MerekHP       	"Samsung" ;
+             d:Ram              "8 GB" ;
+             d:Memori             "256 GB";
+             d:Harga                "5.999.999";
+             d:Kamera            "108 MP".
+
+p:P29        d:NamaHP	        "Oppo Find X5 Pro" ;
+             d:MerekHP       	"Oppo" ;
+             d:Ram              "8 GB" ;
+             d:Memori             "256 GB";
+             d:Harga                "14.250.000";
+             d:Kamera            "50 MP".
+
+p:P30        d:NamaHP	        "Oppo Find N" ;
+             d:MerekHP       	"Oppo" ;
+             d:Ram              "8 GB" ;
+             d:Memori             "512 GB";
+             d:Harga                "25.000.000";
+             d:Kamera            "50 MP".
+
+p:P31        d:NamaHP	        "Oppo Find X3 Pro" ;
+             d:MerekHP       	"Oppo" ;
+             d:Ram              "12 GB" ;
+             d:Memori             "512 GB";
+             d:Harga                "12.100.000";
+             d:Kamera            "50 MP".
+
+p:P32        d:NamaHP	        "Oppo Reno 6 Pro" ;
+             d:MerekHP       	"Oppo" ;
+             d:Ram              "12 GB" ;
+             d:Memori             "256 GB";
+             d:Harga                "10.999.000";
+             d:Kamera            "50 MP".
+
+p:P33        d:NamaHP	        "Oppo Ace 2" ;
+             d:MerekHP       	"Oppo" ;
+             d:Ram              "12 GB" ;
+             d:Memori             "256 GB";
+             d:Harga                "13.250.000";
+             d:Kamera            "50 MP".
+
+p:P34        d:NamaHP	        "Vivo X70 Pro" ;
+             d:MerekHP       	"Vivo" ;
+             d:Ram              "8 GB" ;
+             d:Memori             "256 GB";
+             d:Harga                "10.999.000";
+             d:Kamera            "48 MP".
+
+p:P35        d:NamaHP	        "Vivo V23 5G" ;
+             d:MerekHP       	"Vivo" ;
+             d:Ram              "8 GB" ;
+             d:Memori             "256 GB";
+             d:Harga                "5.999.000";
+             d:Kamera            "48 MP".
+
+p:P36        d:NamaHP	        "Vivo Y75 5G" ;
+             d:MerekHP       	"Vivo" ;
+             d:Ram              "8 GB" ;
+             d:Memori             "512 GB";
+             d:Harga                "3.999.000";
+             d:Kamera            "48 MP".
+
+p:P37        d:NamaHP	        "Vivo Y21T" ;
+             d:MerekHP       	"Vivo" ;
+             d:Ram              "6 GB" ;
+             d:Memori             "256 GB";
+             d:Harga                "3.099.000";
+             d:Kamera            "48 MP".
+
+p:P38        d:NamaHP	        "Vivo Y33S" ;
+             d:MerekHP       	"Vivo" ;
+             d:Ram              "8 GB" ;
+             d:Memori             "128 GB";
+             d:Harga                "3.399.000";
+             d:Kamera            "48 MP".
+
+p:P39        d:NamaHP	        "Vivo V21 5G" ;
+             d:MerekHP       	"Vivo" ;
+             d:Ram              "8 GB" ;
+             d:Memori             "256 GB";
+             d:Harga                "3.999.000";
+             d:Kamera            "48 MP".
+
+p:P40        d:NamaHP	        "Iphone 12" ;
+             d:MerekHP       	"Iphone" ;
+             d:Ram              "4 GB" ;
+             d:Memori             "256 GB";
+             d:Harga                "12.700.000";
+             d:Kamera            "12 MP".
+
+p:P41        d:NamaHP	        "Iphone 11 " ;
+             d:MerekHP       	"Iphone" ;
+             d:Ram              "4 GB" ;
+             d:Memori             "256 GB";
+             d:Harga                "10.300.000";
+             d:Kamera            "12 MP".
+
+p:P42        d:NamaHP	        "Iphone 12 Pro" ;
+             d:MerekHP       	"Iphone" ;
+             d:Ram              "4 GB" ;
+             d:Memori             "128 GB";
+             d:Harga                "16.500.000";
+             d:Kamera            "16 MP".
+
+p:P43        d:NamaHP	        "Iphone SE" ;
+             d:MerekHP       	"Iphone" ;
+             d:Ram              "4 GB" ;
+             d:Memori             "128 GB";
+             d:Harga                "6.300.000";
+             d:Kamera            "16 MP".
+
+p:P44        d:NamaHP	        "Iphone 11 Pro" ;
+             d:MerekHP       	"Iphone" ;
+             d:Ram              "4 GB" ;
+             d:Memori             "512 GB";
+             d:Harga                "14.000.000";
+             d:Kamera            "16 MP".
+
+p:P45        d:NamaHP	        "Iphone XR" ;
+             d:MerekHP       	"Iphone" ;
+             d:Ram              "3 GB" ;
+             d:Memori             "256 GB";
+             d:Harga                "5.200.000";
+             d:Kamera            "12 MP".
+
+p:P46        d:NamaHP	        "Iphone 8" ;
+             d:MerekHP       	"Iphone" ;
+             d:Ram              "3 GB" ;
+             d:Memori             "128 GB";
+             d:Harga                "4.400.000";
+             d:Kamera            "12 MP".
+
+p:P47        d:NamaHP	        "Iphone 8 Plus " ;
+             d:MerekHP       	"Iphone" ;
+             d:Ram              "3 GB" ;
+             d:Memori             "128 GB";
+             d:Harga                "5.900.000";
+             d:Kamera            "12 MP".

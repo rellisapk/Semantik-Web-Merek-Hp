@@ -1,0 +1,13 @@
+PREFIX p: <http://cellphone.com>
+PREFIX d: <http://cellphone.com/ns/data#>
+
+SELECT ?Nama ?Merek ?RAM ?Memori ?Harga ?Kamera
+    WHERE
+    { 
+        ?s  d:NamaHP ?Nama ;
+            d:MerekHP ?Merek;
+            d:Ram ?RAM;
+            d:Memori ?Memori;
+            d:Harga ?Harga;
+            d:Kamera ?Kamera;        
+    }
